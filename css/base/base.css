@@ -14,3 +14,12 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     position: relative;
 }
+
+.container {
+    background-color: #74C69D;
+}
+
+.partners {
+    background-color: #fff;
+}
+
