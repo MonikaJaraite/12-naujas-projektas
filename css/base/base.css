@@ -17,9 +17,20 @@ body {
 
 .container {
     background-color: #74C69D;
+    color: #fff;
 }
 
 .partners {
     background-color: #fff;
+}
+
+.link {
+    text-decoration: none;
+    color: #fff;
+}
+
+h2 {
+    text-transform: uppercase;
+    letter-spacing: 6px;
 }
 
