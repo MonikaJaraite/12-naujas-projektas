@@ -1,0 +1,19 @@
+{
+  "name": "12-naujas-projektas",
+  "version": "1.0.0",
+  "description": "a test",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --host=localhost --port=4212",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html", 
+    "css"
+  ],
+  "author": "Monika (https://github.com/MonikaJaraite)",
+  "license": "ISC",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
