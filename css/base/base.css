@@ -15,13 +15,18 @@ body {
     position: relative;
 }
 
+.header.container{
+    padding: 0;
+}
+
 .container {
     background-color: #74C69D;
     color: #fff;
 }
 
 .menu,
-footer .rights {
+footer .rights,
+.right-column {
     text-align: right;
 }
 
@@ -43,6 +48,7 @@ footer .rights {
 
 h2 {
     font-size: 16px;
+    font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 6px;
 }
