@@ -15,11 +15,11 @@ body {
     position: relative;
 }
 
-.header.container{
+.header.container-fluid{
     padding: 0;
 }
 
-.container {
+.container-fluid {
     background-color: #74C69D;
     color: #fff;
 }
@@ -79,4 +79,11 @@ footer .icon {
     text-decoration: none;
     color: #fff;
     margin: 0 0.3em;
+}
+
+@media (max-width: 768px) {
+    footer .socials,
+    footer .rights {
+        text-align: center;
+    }
 }
