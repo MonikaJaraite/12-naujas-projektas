@@ -20,6 +20,11 @@ body {
     color: #fff;
 }
 
+.menu,
+footer .rights {
+    text-align: right;
+}
+
 .link {
     padding: 0.6em;
     font-size: 20px;
