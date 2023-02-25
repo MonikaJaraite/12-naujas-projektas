@@ -30,6 +30,12 @@ footer .rights,
     text-align: right;
 }
 
+.right-column > img {
+    max-width: 670px;
+    width: 100%;
+    height: auto;
+}
+
 .link {
     padding: 0.6em;
     font-size: 20px;
