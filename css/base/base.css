@@ -53,6 +53,11 @@ h2 {
     letter-spacing: 6px;
 }
 
+.welcome > .row {
+    display: flex;
+    flex-wrap: wrap-reverse;
+}
+
 .partners {
     background-color: #fff;
     text-align: center;
